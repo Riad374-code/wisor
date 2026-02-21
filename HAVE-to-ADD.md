@@ -1,0 +1,1 @@
+Add name based search on desktop to get specific icon's coordinate
